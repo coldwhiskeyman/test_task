@@ -21,4 +21,4 @@ def rate_symbols(filename):
 
 
 if __name__ == '__main__':
-    rate_symbols('sherlock request create chat.txt')
+    rate_symbols('war and peace.txt')
